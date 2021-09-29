@@ -80,7 +80,7 @@ ________________________________________________
 
 👉  "@CONV.BAS" = Conversion of Binary to Decimal and vise-versa 
 
-👉  "@CAL.BAS" = Simple Calculator 
+👉  "@CALC.BAS" = Simple Calculator 
 
 👉  "@SIGN.BAS" = sign-In /Login form
 
