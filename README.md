@@ -30,6 +30,7 @@ QBasic IDE photo
 
 ![images](https://user-images.githubusercontent.com/79866006/135179224-987800b3-e17d-4e4c-a929-bb571a4c6476.png)
 
+________________________________________________
 
 📝  How  To Download QBasic IDE for Android, 
 
