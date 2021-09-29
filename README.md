@@ -73,7 +73,7 @@ You will be welcomed by a text that says ‘Welcome to MS-DOS QBasic’.
 It will be a little bit difficult for navigating and typing things.
 But slowly you will get habituated. 
 
-
+________________________________________________
 
 📝   SIMPLE QBasic PROGRAM 
 
@@ -83,7 +83,7 @@ But slowly you will get habituated.
 
 👉  "@SIGN.BAS" = sign-In /Login form
 
-
+_________________________________________________
 
 
 
