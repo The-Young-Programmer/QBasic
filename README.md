@@ -76,8 +76,11 @@ But slowly you will get habituated.
 📝   SIMPLE QBasic PROGRAM 
 
 👉  "@CONV.BAS" = Conversion of Binary to Decimal and vise-versa 
+
 👉  "@CAL.BAS" = Simple Calculator 
+
 👉  "@SIGN.BAS" = sign-In /Login form
+
 
 
 📝   Apps to learn more about QBasic Programs 
@@ -93,4 +96,5 @@ QBasic Simplified
 NOTE :
 
 THIS IS BROUGHT TO YOU BY "THE YOUNG PROGRAMMER".
-
+click this link for more programming :
+https://wa.link/g63lqt
