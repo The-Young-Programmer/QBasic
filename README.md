@@ -73,6 +73,8 @@ You will be welcomed by a text that says ‘Welcome to MS-DOS QBasic’.
 It will be a little bit difficult for navigating and typing things.
 But slowly you will get habituated. 
 
+
+
 📝   SIMPLE QBasic PROGRAM 
 
 👉  "@CONV.BAS" = Conversion of Binary to Decimal and vise-versa 
@@ -80,6 +82,8 @@ But slowly you will get habituated.
 👉  "@CAL.BAS" = Simple Calculator 
 
 👉  "@SIGN.BAS" = sign-In /Login form
+
+
 
 
 
@@ -96,5 +100,6 @@ QBasic Simplified
 NOTE :
 
 THIS IS BROUGHT TO YOU BY "THE YOUNG PROGRAMMER".
+
 click this link for more programming :
 https://wa.link/g63lqt
