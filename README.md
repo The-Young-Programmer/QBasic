@@ -113,6 +113,4 @@ NOTE :
 ----
 
 THIS IS BROUGHT TO YOU BY "THE YOUNG PROGRAMMER".
-
-click this link for more programming :
-https://wa.link/g63lqt
+KINDLY GIVE A STAR ⭐ IF YOU LIKE MY WORK.
